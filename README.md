@@ -1,238 +1,175 @@
 <div align="center">
 
-# 👋 Hi, I'm Palak Mani Tripathi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=200&section=header&text=Palak%20Mani%20Tripathi&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20MERN&descSize=18&descAlignY=60" width="100%"/>
 
-### Full-Stack Developer | MERN Stack | Generative AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+AI-powered+web+apps;MERN+%2B+Generative+AI;Final-year+CSE+%7C+Open+to+SDE+roles" />
 
-Building practical web applications and AI-powered solutions with
-JavaScript, React, Node.js and Generative AI.
+<br/><br/>
 
-<p>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/tripathipalak" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-EF4444?style=for-the-badge&logo=readme&logoColor=white"/></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
 
-## 👩‍💻 About Me
+<table>
+<tr>
+<td width="60%">
 
-I'm a final-year Computer Science student and Full-Stack Developer
-interested in building real-world web applications and AI-powered
-solutions.
+### 🚀 Mission Control
 
-I primarily work with the MERN stack and enjoy developing complete
-applications — from responsive frontend interfaces to REST APIs,
-databases, authentication and third-party API integrations.
+<pre>
+name: Palak Mani Tripathi
+role: Full-Stack Developer
+education: B.Tech CSE (Final Year)
+location: Lucknow, India
+status: "Building AI-powered products"
+learning: [DSA, RAG, LLM Apps, Cloud]
+stack: [React, Node.js, MongoDB, Python]
+experience: LLM Post-Training Intern
+open_to: [SDE, Full-Stack, GenAI roles]
+motto: "Build. Learn. Improve. Repeat."
+</pre>
 
-Currently, I'm expanding my skills in **Generative AI, LLM applications,
-DSA and modern full-stack development**.
+</td>
+<td width="40%" align="center">
 
-I enjoy learning by building projects and turning ideas into working
-applications.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Mission Control
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
 
-```text
-Name          → Palak Mani Tripathi
-Role          → Full-Stack Developer
-Education     → B.Tech Computer Science & Engineering
-Location      → Lucknow, India
-Primary Stack → MERN
-Focus         → Full-Stack Development + Generative AI
-Learning      → DSA | GenAI | LLM Applications
-Building      → AI-powered Web Applications
-Experience    → LLM Post-Training Internship
+<h2 align="center">⚡ Tech Arsenal</h2>
 
-🛠️ Tech Stack
-💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java" />
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,vite" />
+<h3 align="center">⚙️ Backend & Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-Technologies: HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS •
-Redux Toolkit • Vite
-⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<h3 align="center">🤖 AI & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/GEMINI_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
-Technologies: Node.js • Express.js • REST APIs • JWT Authentication
-🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=tripathipalak&theme=radical&hide_border=true&background=0d1117"/>
 </p>
 
-Technologies: MongoDB • Mongoose • MySQL
-🤖 AI / Generative AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/output/github-contribution-grid-snake.svg" />
 </p>
 
-Technologies: Generative AI • Gemini API • LLM Applications •
-AI API Integration
-🔧 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
 
-Tools: Git • GitHub • VS Code • Postman • MongoDB Atlas • Vercel
-🚀 Featured Projects
-🎓 SkillRise — MERN EdTech Platform
-MERN • React • Node.js • Express.js • MongoDB • JWT • Cloudinary
-A full-stack e-learning platform designed for students and instructors.
-✨ Features
-- 🔐 User authentication and authorization
-- 👨‍🎓 Student and instructor dashboards
-- 📚 Course creation and management
-- 💳 Course purchasing functionality
-- ☁️ Cloudinary-based media management
-- 🔑 JWT-based authentication
-- 🤖 AI-powered features
-<p>
-  <a href="YOUR_LIVE_DEMO_LINK">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-blue?style=for-the-badge" />
-  </a>
-  <a href="YOUR_GITHUB_REPO_LINK">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<h2 align="center">🚀 Featured Projects</h2>
 
-🌱 CropCare AI — Smart Agriculture Assistant
-React • Node.js • Express.js • MongoDB • Python • FastAPI •
-Random Forest • Gemini API
-An AI-powered agricultural assistant that helps users with crop
-recommendation and plant disease detection.
-✨ Features
-- 🌾 Crop recommendation using soil and environmental parameters
-- 🧪 N, P, K and pH based analysis
-- 🌦️ Weather information integration
-- 🤖 Random Forest based crop recommendation
-- 🌿 Plant disease detection from leaf images
-- 🧠 Gemini API integration
-- 💊 Treatment and prevention suggestions
-- 🔐 Farmer/Admin authentication
-- 📊 Personalized prediction history
-<p>
-  <a href="YOUR_GITHUB_REPO_LINK">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
 
-📊 Customer Churn Prediction
-Python • Machine Learning • Pandas • NumPy • Scikit-learn
-A machine learning project focused on predicting customer churn based
-on customer-related attributes.
-✨ Highlights
-- 📊 Data preprocessing and analysis
-- 🧹 Feature preparation
-- 🤖 Machine learning model training
-- 📈 Model evaluation
-- 🎯 Customer churn prediction
-<p>
-  <a href="https://github.com/tripathipalak/Customer-churn-prediction">
-    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### 🎯 [PrepPilot.AI](https://github.com/tripathipalak/PrepPilot)
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square"/> <img src="https://img.shields.io/badge/JWT-000?style=flat-square"/>
 
-📚 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/DSA-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-4169E1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20%26%20Deployment-00A8CC?style=for-the-badge" />
-</p>
+AI mock interviews with feedback + resume analyzer for job-seekers.
 
-📊 GitHub Analytics
-<div align="center">
+[🌐 Live](YOUR_PREPPILOT_LIVE_URL) · [💻 Code](https://github.com/tripathipalak/PrepPilot)
 
-<img src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=tokyonight&hide_border=true" />
+</td>
+<td width="50%" align="center">
 
+### 🎓 [SkillRise](https://github.com/tripathipalak/SkillRise)
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=tokyonight&hide_border=true" />
+EdTech platform with student/instructor dashboards, payments and AI features.
 
-</div>
+[🌐 Live](YOUR_SKILLRISE_LIVE_URL) · [💻 Code](https://github.com/tripathipalak/SkillRise)
 
-🔥 GitHub Contribution Streak
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com?user=tripathipalak&theme=tokyonight&hide_border=true" />
+### 🌱 CropCare AI
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square"/>
 
-</div>
+Crop recommendation + plant disease detection with Gemini-powered treatment tips.
 
-🐍 Contribution Snake
-<div align="center">
+[💻 Code](YOUR_CROPCARE_REPO_URL)
 
-<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/output/github-contribution-grid-snake.svg" />
+</td>
+<td width="50%" align="center">
 
-</div>
+### 📊 [Churn Prediction](https://github.com/tripathipalak/Customer-churn-prediction)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-🎯 What I Love Building
-<div align="center">
+ML dashboard predicting bank customer churn with live predictions.
 
-🤖 AI Applications	🌐 Full-Stack Platforms	⚡ Real-World Solutions
-GenAI & LLM Apps	MERN Applications	Practical Problem Solving
+[💻 Code](https://github.com/tripathipalak/Customer-churn-prediction)
 
+</td>
+</tr>
+</table>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
 
-💼 Open To
-✓ Full-Stack Development Opportunities
-✓ Software Engineering Roles
-✓ MERN Stack Opportunities
-✓ Generative AI / LLM Projects
-✓ AI-powered Web Applications
-✓ Entry-Level Software Engineering Roles
+<table>
+<tr>
+<td width="50%" align="center">
 
-📈 My Development Journey
-Frontend Development
-        ↓
-     MERN Stack
-        ↓
- Full-Stack Projects
-        ↓
- Generative AI
-        ↓
- LLM Applications
-        ↓
- AI + Full-Stack Applications
+### 🧠 Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-🤝 Let's Connect
-<div align="center">
+</td>
+<td width="50%" align="center">
 
-<a href="https://github.com/tripathipalak">
-  <img src="https://img.shields.io/badge/GitHub-TripathiPalak-black?style=for-the-badge&logo=github" />
-</a>
+### 💻 Coding Vibes
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff" />
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Palak%20Mani%20Tripathi-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-💻 Build. Learn. Improve. Repeat.
-⭐ Thanks for visiting my profile!
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-grey?style=for-the-badge&logo=eye&logoColor=white"/><img src="https://komarev.com/ghpvc/?username=tripathipalak&style=for-the-badge&color=A855F7&label="/>
+
+<h3><code>Keep coding, keep creating!</code></h3>
+
 </div>
-```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Palak&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
