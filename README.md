@@ -1,463 +1,238 @@
-# 👩‍💻 Hi, I'm Palak Tripathi
+<div align="center">
 
-### 💻 Full-Stack Developer | MERN Stack | AI/ML Enthusiast
+# 👋 Hi, I'm Palak Mani Tripathi
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Generative+AI+Explorer;Always+Learning+%26+Building" />
+### Full-Stack Developer | MERN Stack | Generative AI Enthusiast
+
+Building practical web applications and AI-powered solutions with
+JavaScript, React, Node.js and Generative AI.
+
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/tripathipalak" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tripathipalak">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Palak Tripathi**, a final-year Computer Science student and Full-Stack Developer passionate about building modern, practical, and user-friendly applications.
+I'm a final-year Computer Science student and Full-Stack Developer
+interested in building real-world web applications and AI-powered
+solutions.
 
-I enjoy working across the complete development lifecycle — from designing responsive interfaces and developing REST APIs to managing databases, implementing authentication, and integrating AI/ML functionality into real-world applications.
+I primarily work with the MERN stack and enjoy developing complete
+applications — from responsive frontend interfaces to REST APIs,
+databases, authentication and third-party API integrations.
 
-My primary development focus is the **MERN stack**, while I am also exploring **Machine Learning, Generative AI, LLM applications, and AI-powered full-stack systems**.
+Currently, I'm expanding my skills in **Generative AI, LLM applications,
+DSA and modern full-stack development**.
 
-I believe in learning by building, solving problems, and continuously improving my development and technical skills.
-
----
-
-## ⚡ Quick Snapshot
-
-| | |
-|---|---|
-| 🎓 Education | B.Tech in Computer Science & Engineering |
-| 💻 Primary Stack | MERN Stack |
-| 🌐 Development | Full-Stack Web Development |
-| 🤖 Interests | AI • Machine Learning • Generative AI |
-| 🧠 Problem Solving | Data Structures & Algorithms |
-| 💻 Languages | JavaScript • Java • Python |
-| 🗄️ Databases | MongoDB • MySQL |
-| 🎯 Focus | Software Engineering |
-| 🌱 Currently Learning | Generative AI & AI-powered Applications |
+I enjoy learning by building projects and turning ideas into working
+applications.
 
 ---
 
-## 🎯 Mission Control
+## 🚀 Mission Control
 
 ```text
-Name        : Palak Tripathi
-Role        : Full-Stack Developer
-Education   : Computer Science & Engineering
-Primary     : MERN Stack
-Interests   : AI • ML • Generative AI
-Learning    : GenAI • LLMs • DSA
-Focus       : Full-Stack & AI-powered Applications
-Status      : Learning • Building • Improving
-```
+Name          → Palak Mani Tripathi
+Role          → Full-Stack Developer
+Education     → B.Tech Computer Science & Engineering
+Location      → Lucknow, India
+Primary Stack → MERN
+Focus         → Full-Stack Development + Generative AI
+Learning      → DSA | GenAI | LLM Applications
+Building      → AI-powered Web Applications
+Experience    → LLM Post-Training Internship
 
----
-
-# 🛠️ Tech Arsenal
-
-### 💻 Programming Languages
-
+🛠️ Tech Stack
+💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,java" />
 </p>
 
-### 🎨 Frontend Development
-
+🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,vite" />
 </p>
 
-**React.js • Redux Toolkit • Tailwind CSS • Vite • React Router**
-
-### ⚙️ Backend Development
-
+Technologies: HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS •
+Redux Toolkit • Vite
+⚙️ Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js • Express.js • REST APIs • JWT • bcryptjs**
-
-### 🗄️ Databases
-
+Technologies: Node.js • Express.js • REST APIs • JWT Authentication
+🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**MongoDB • Mongoose • MySQL • MongoDB Atlas**
+Technologies: MongoDB • Mongoose • MySQL
+🤖 AI / Generative AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 🤖 AI / Machine Learning
-
-**Machine Learning • Scikit-learn • Pandas • NumPy • Generative AI • Gemini API • LLM Applications**
-
-### 🔧 Tools & Services
-
+Technologies: Generative AI • Gemini API • LLM Applications •
+AI API Integration
+🔧 Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-**Git • GitHub • VS Code • Postman • Cloudinary • REST APIs**
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 SkillRise — MERN EdTech Platform
-
-A full-stack educational platform built using the MERN stack for students and instructors.
-
-### ✨ Features
-
-- 👨‍🎓 Student and instructor functionality
-- 🔐 Authentication and authorization
+Tools: Git • GitHub • VS Code • Postman • MongoDB Atlas • Vercel
+🚀 Featured Projects
+🎓 SkillRise — MERN EdTech Platform
+MERN • React • Node.js • Express.js • MongoDB • JWT • Cloudinary
+A full-stack e-learning platform designed for students and instructors.
+✨ Features
+- 🔐 User authentication and authorization
+- 👨‍🎓 Student and instructor dashboards
 - 📚 Course creation and management
-- 👤 User dashboards
-- 🛒 Course purchasing
-- ☁️ Cloudinary media management
-- 🔄 REST API architecture
-- 🤖 AI-powered functionality
+- 💳 Course purchasing functionality
+- ☁️ Cloudinary-based media management
+- 🔑 JWT-based authentication
+- 🤖 AI-powered features
+<p>
+  <a href="YOUR_LIVE_DEMO_LINK">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="YOUR_GITHUB_REPO_LINK">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-### 🛠️ Tech Stack
-
-`React.js` `Redux Toolkit` `Tailwind CSS`  
-`Node.js` `Express.js` `MongoDB`  
-`Cloudinary` `Gemini API`
-
----
-
-## 🤖 PrepPilot
-
-A web-based preparation platform designed to provide users with a structured and interactive preparation experience.
-
-### ✨ Features
-
-- 🎯 Preparation-focused interface
-- 📚 Organized learning resources
-- 👤 User-oriented functionality
-- ⚡ Interactive UI
-- 🔄 API-based architecture
-- 🤖 AI-oriented functionality
-
-### 🛠️ Tech Stack
-
-`JavaScript` `React.js` `Node.js`  
-`Express.js` `MongoDB` `REST APIs`
-
----
-
-## 📊 Customer Churn Prediction
-
-A Machine Learning-powered dashboard designed to predict customer churn and provide useful business insights.
-
-### ✨ Features
-
-- 📈 Customer churn prediction
-- 📊 Interactive data visualization
-- ⚠️ Risk analysis
-- 💡 Business insights
-- 🔮 Live prediction functionality
-- 📋 Customer-level analysis
-
-### 🛠️ Tech Stack
-
-`Python` `Pandas` `NumPy`  
-`Scikit-learn` `Machine Learning`  
-`Jupyter Notebook`
-
----
-
-## 🌾 CropCare AI — Intelligent Agricultural Assistant
-
-An AI-powered agricultural assistance platform combining Machine Learning and Generative AI to support crop recommendation and plant disease detection.
-
-### ✨ Features
-
-- 🌱 Crop recommendation
-- 🧪 N, P, K and pH-based prediction
+🌱 CropCare AI — Smart Agriculture Assistant
+React • Node.js • Express.js • MongoDB • Python • FastAPI •
+Random Forest • Gemini API
+An AI-powered agricultural assistant that helps users with crop
+recommendation and plant disease detection.
+✨ Features
+- 🌾 Crop recommendation using soil and environmental parameters
+- 🧪 N, P, K and pH based analysis
 - 🌦️ Weather information integration
-- 🤖 Random Forest model
-- 🌿 Plant disease detection
-- 🖼️ Leaf image analysis
+- 🤖 Random Forest based crop recommendation
+- 🌿 Plant disease detection from leaf images
 - 🧠 Gemini API integration
-- 💊 Treatment and preventive suggestions
-- 🔐 JWT authentication
-- 👨‍🌾 Farmer and Admin roles
-- 📊 Prediction history
-- 🗄️ MongoDB storage
-
-### 🛠️ Tech Stack
-
-`React.js` `Vite` `Node.js` `Express.js`  
-`MongoDB` `Mongoose`  
-`Python` `FastAPI` `Scikit-learn`  
-`Random Forest` `Gemini API`
-
----
-
-## 💰 Finovate — Finance Dashboard
-
-A modern finance dashboard built with React for presenting financial information through an interactive interface.
-
-### ✨ Features
-
-- 📊 Finance dashboard
-- 📈 Data visualization
-- 💳 Financial information
-- 📱 Responsive interface
-- ⚡ Interactive components
-
-### 🛠️ Tech Stack
-
-`React.js` `JavaScript` `Tailwind CSS` `Recharts`
-
----
-
-## 🛒 EcomzyApp — Shopping Application
-
-A React-based shopping application focused on component-based development and interactive shopping functionality.
-
-### ✨ Features
-
-- 🛍️ Product browsing
-- 🛒 Shopping cart
-- 🔄 Dynamic UI updates
-- 📱 Responsive interface
-- ⚛️ Reusable React components
-
-### 🛠️ Tech Stack
-
-`React.js` `JavaScript` `HTML` `CSS`
-
----
-
-# 🧩 Full-Stack Architecture
-
-```text
-                    ┌──────────────────────┐
-                    │       FRONTEND       │
-                    │   React.js + Vite    │
-                    │ Redux + Tailwind CSS │
-                    └──────────┬───────────┘
-                               │
-                           REST APIs
-                               │
-                    ┌──────────▼───────────┐
-                    │       BACKEND        │
-                    │ Node.js + Express.js │
-                    └───────┬───────┬──────┘
-                            │       │
-                 ┌──────────┘       └──────────┐
-                 ▼                             ▼
-        ┌──────────────────┐          ┌──────────────────┐
-        │     MongoDB      │          │     AI / ML      │
-        │     Database     │          │ Python / APIs    │
-        └──────────────────┘          └──────────────────┘
-```
-
----
-
-# 🧠 Data Structures & Algorithms
-
-I am actively practicing **Data Structures & Algorithms** to improve my problem-solving and technical interview skills.
-
-### 📚 Topics
-
-- Arrays
-- Strings
-- Linked Lists
-- Recursion
-- Stack
-- Queue
-- Trees
-- Binary Trees
-- Heap
-- Hashing
-- Graphs
-- Backtracking
-- Dynamic Programming
-
-### 🎯 Problem Solving
-
-- Regular DSA practice
-- LeetCode problem solving
-- Interview-oriented problems
-- Algorithmic problem solving
-
----
-
-# 🤖 AI & Generative AI
-
-I'm exploring how modern AI technologies can be integrated into practical full-stack applications.
-
-### 🔍 Areas I'm Exploring
-
-- Generative AI
-- Large Language Models
-- Gemini API
-- LLM Applications
-- Prompt Engineering
-- AI-powered Web Applications
-- Machine Learning
-- AI API Integration
-- RAG-based Applications
-
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-`🤖 Generative AI`  
-`🧠 Large Language Models`  
-`🔗 LLM API Integration`  
-`📚 RAG Applications`  
-`🌐 Advanced MERN Development`  
-`⚙️ Backend Development`  
-`📊 Machine Learning`  
-`🧩 Data Structures & Algorithms`  
-`🚀 AI-powered Applications`
-
+- 💊 Treatment and prevention suggestions
+- 🔐 Farmer/Admin authentication
+- 📊 Personalized prediction history
+<p>
+  <a href="YOUR_GITHUB_REPO_LINK">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
----
-
-# ❤️ What I Love Building
-
-| 🤖 AI | 🌐 Web | 📊 Data |
-|---|---|---|
-| AI Applications | Full-Stack Platforms | Data-driven Apps |
-| ML Applications | EdTech Platforms | ML Dashboards |
-| GenAI Applications | Interactive Websites | Prediction Systems |
-
-| 🌱 AgriTech | 🎓 EdTech | ⚡ Productivity |
-|---|---|---|
-| Smart Agriculture | Learning Platforms | Preparation Tools |
-| Crop Recommendation | Educational Apps | AI Assistants |
-
----
-
-# 📌 Development Focus
-
-```text
-Frontend        → React.js • Redux Toolkit • Tailwind CSS • Vite
-Backend         → Node.js • Express.js • REST APIs
-Database        → MongoDB • Mongoose • MySQL
-Programming     → JavaScript • Java • Python
-AI / ML         → Gemini • Machine Learning • Generative AI
-Problem Solving → DSA • Algorithms • LeetCode
-Tools           → Git • GitHub • VS Code • Postman
-```
-
----
-
-# 💼 What I'm Open To
-
-- 💻 Full-Stack Development Opportunities
-- 🚀 Software Engineering Roles
-- 🌐 MERN Stack Projects
-- 🤖 AI / Generative AI Projects
-- 📊 Machine Learning Projects
-- 🧠 AI-powered Application Development
-- 🤝 Collaborative Development
-- 🌍 Open-Source Contributions
-- 🎓 Internship & Entry-Level Opportunities
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=tokyonight&hide_border=true" />
+📊 Customer Churn Prediction
+Python • Machine Learning • Pandas • NumPy • Scikit-learn
+A machine learning project focused on predicting customer churn based
+on customer-related attributes.
+✨ Highlights
+- 📊 Data preprocessing and analysis
+- 🧹 Feature preparation
+- 🤖 Machine learning model training
+- 📈 Model evaluation
+- 🎯 Customer churn prediction
+<p>
+  <a href="https://github.com/tripathipalak/Customer-churn-prediction">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=tokyonight&hide_border=true" />
+📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/DSA-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Deployment-00A8CC?style=for-the-badge" />
 </p>
 
----
+📊 GitHub Analytics
+<div align="center">
 
-# 🔥 GitHub Contribution Streak
+<img src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tripathipalak&theme=tokyonight&hide_border=true" />
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=tokyonight&hide_border=true" />
 
-# 📈 Contribution Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=tokyo-night&hide_border=true" />
-</p>
+🔥 GitHub Contribution Streak
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=tripathipalak&theme=tokyonight&hide_border=true" />
 
-# 🐍 Contribution Snake
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/output/github-contribution-grid-snake.svg" />
-</p>
+🐍 Contribution Snake
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/output/github-contribution-grid-snake.svg" />
 
-# 💬 Developer Vibes
+</div>
 
-> "The best way to learn technology is to build with it."
+🎯 What I Love Building
+<div align="center">
 
-```text
-☕ Code
-   ↓
-🧠 Learn
-   ↓
-🐛 Debug
-   ↓
-🔧 Improve
-   ↓
-🚀 Build Again
-```
+🤖 AI Applications	🌐 Full-Stack Platforms	⚡ Real-World Solutions
+GenAI & LLM Apps	MERN Applications	Practical Problem Solving
 
----
 
-# 📫 Let's Connect
+</div>
 
-<p align="center">
+💼 Open To
+✓ Full-Stack Development Opportunities
+✓ Software Engineering Roles
+✓ MERN Stack Opportunities
+✓ Generative AI / LLM Projects
+✓ AI-powered Web Applications
+✓ Entry-Level Software Engineering Roles
+
+📈 My Development Journey
+Frontend Development
+        ↓
+     MERN Stack
+        ↓
+ Full-Stack Projects
+        ↓
+ Generative AI
+        ↓
+ LLM Applications
+        ↓
+ AI + Full-Stack Applications
+
+🤝 Let's Connect
+<div align="center">
 
 <a href="https://github.com/tripathipalak">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-TripathiPalak-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Palak%20Mani%20Tripathi-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-</p>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
----
+</div>
 
-# 👀 Profile Visitors
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tripathipalak&style=for-the-badge" />
-</p>
-
----
-
-# 💙 A Little More About Me
-
-I believe in **learning by building**. Every project gives me an opportunity to understand technology better, experiment with new ideas, and improve my problem-solving skills.
-
-I'm especially interested in the intersection of **Full-Stack Development and AI**, where intelligent features can be combined with practical web applications to solve real-world problems.
-
-My goal is to continuously grow as a software engineer, build meaningful products, and keep exploring technologies that make applications smarter and more useful.
-
----
-
-# 🚀 Thanks for Visiting My Profile!
-
-### Build • Learn • Solve • Improve • Repeat 💻
+💻 Build. Learn. Improve. Repeat.
+⭐ Thanks for visiting my profile!
+</div>
+```
