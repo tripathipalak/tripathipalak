@@ -8,8 +8,6 @@
 
 <a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-EF4444?style=for-the-badge&logo=readme&logoColor=white"/></a>
 
 </div>
 
@@ -36,7 +34,7 @@ motto: "Build. Learn. Improve. Repeat."
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
 
 </td>
 </tr>
@@ -120,7 +118,7 @@ motto: "Build. Learn. Improve. Repeat."
 
 AI mock interviews with feedback and resume analysis for job-seekers.
 
-🌐 Live · <a href="https://github.com/tripathipalak/PrepPilot">💻 Code</a>
+<a href="https://github.com/tripathipalak/PrepPilot">💻 Code</a>
 
 </td>
 
@@ -142,6 +140,20 @@ MERN-based EdTech platform with student/instructor dashboards, authentication an
 <tr>
 <td width="50%" align="center">
 
+### 🔎 <a href="https://github.com/tripathipalak/Lost-And-Found">Lost & Found</a>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+Campus lost-item platform with auto-matching, admin-verified handovers and email alerts.
+
+<a href="https://github.com/tripathipalak/Lost-And-Found">💻 Code</a>
+
+</td>
+
+<td width="50%" align="center">
+
 ### 📊 <a href="https://github.com/tripathipalak/Customer-churn-prediction">Customer Churn Prediction</a>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -153,8 +165,10 @@ Machine learning project for predicting customer churn using Python and Scikit-l
 <a href="https://github.com/tripathipalak/Customer-churn-prediction">💻 Code</a>
 
 </td>
+</tr>
 
-<td width="50%" align="center">
+<tr>
+<td colspan="2" align="center">
 
 ### 💰 Finovate
 
