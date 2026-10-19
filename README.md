@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=200&section=header&text=Palak%20Mani%20Tripathi&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20MERN&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=200&section=header&text=Palak%20Mani%20Tripathi&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20MERN&descSize=18&descAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Building+AI-powered+web+apps;MERN+%2B+Generative+AI;Final-year+CSE+%7C+Open+to+SDE+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Building+AI-powered+web+apps;MERN+%2B+Generative+AI;Final-year+CSE+%7C+Open+to+SDE+roles" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
 
 <table>
 <tr>
@@ -34,13 +34,13 @@ motto: "Build. Learn. Improve. Repeat."
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1F6FEB&icon_color=1F6FEB" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
 
 <h2 align="center">⚡ Tech Arsenal</h2>
 
@@ -77,20 +77,20 @@ motto: "Build. Learn. Improve. Repeat."
 <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=tripathipalak&theme=radical&hide_border=true&background=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1F6FEB"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=tripathipalak&theme=tokyonight&hide_border=true&background=0d1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=github-compact&hide_border=true&bg_color=0d1117&color=1F6FEB&line=1F6FEB&point=ffffff&area=true" width="95%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -102,7 +102,7 @@ motto: "Build. Learn. Improve. Repeat."
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -147,71 +147,4 @@ motto: "Build. Learn. Improve. Repeat."
 <td><b>Finovate</b></td>
 <td>React, Recharts</td>
 <td align="center">Live</td>
-<td align="center">—</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
-
-<h2 align="center">🎓 Education & Focus</h2>
-
-<ul>
-<li><b>B.Tech in Computer Science & Engineering</b>, Final Year, Lucknow, India</li>
-</ul>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🧠 Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</td>
-
-<td width="50%" align="center">
-
-### 💻 Coding Vibes
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
-
-<h2 align="center">🔗 Connect With Me</h2>
-
-<table align="center">
-<tr>
-<th>Platform</th>
-<th>Link</th>
-<th>Status</th>
-</tr>
-<tr>
-<td>LinkedIn</td>
-<td><a href="https://www.linkedin.com/in/palak-mani-tripathi/">linkedin.com/in/palak-mani-tripathi</a></td>
-<td>✅ Active</td>
-</tr>
-<tr>
-<td>GitHub</td>
-<td><a href="https://github.com/tripathipalak">github.com/tripathipalak</a></td>
-<td>✅ Active</td>
-</tr>
-<tr>
-<td>Email</td>
-<td><a href="mailto:tripathipalakk25@gmail.com">tripathipalakk25@gmail.com</a></td>
-<td>✅ Active</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tripathipalak&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
-
-<h3><code>Keep coding, keep creating!</code></h3>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,24&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Palak&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<td
