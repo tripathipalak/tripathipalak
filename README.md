@@ -1,13 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=200&section=header&text=Palak%20Mani%20Tripathi&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20MERN&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Palak+Mani+Tripathi;Full-Stack+Developer;GenAI+Builder+%7C+MERN" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=620&lines=Building+AI-powered+web+apps;MERN+%2B+Generative+AI;Final-year+CSE+%7C+Open+to+SDE+roles" />
+<p>
+  <img src="https://img.shields.io/badge/-Full--Stack-0A66C2?style=flat-square&logo=codesandbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GenAI-1F6FEB?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MERN-0E7490?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Open%20to%20SDE-1E293B?style=flat-square&logo=target&logoColor=white"/>
+</p>
 
-<br/><br/>
+<p>
+  <a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/tripathipalak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,2,12&height=6" width="100%"/>
 
 </div>
 
