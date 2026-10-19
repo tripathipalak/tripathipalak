@@ -1,21 +1,36 @@
 <div align="center">
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Palak+Mani+Tripathi;Full-Stack+Developer;GenAI+Builder+%7C+MERN" />
 
+<br/><br/>
+
 <p>
-  <img src="https://img.shields.io/badge/-Full--Stack-0A66C2?style=flat-square&logo=codesandbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GenAI-1F6FEB?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MERN-0E7490?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Open%20to%20SDE-1E293B?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack-0A66C2?style=flat-square&logo=codesandbox&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GenAI-1F6FEB?style=flat-square&logo=openai&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MERN-0E7490?style=flat-square&logo=mongodb&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20SDE-1E293B?style=flat-square&logo=target&logoColor=white"/>
 </p>
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
   <a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
   <a href="https://github.com/tripathipalak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,2,12&height=6" width="100%"/>
+
+<br/><br/>
 
 </div>
 
