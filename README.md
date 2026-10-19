@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="800" alt="Palak's anime-inspired coding world" />
+<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="500" alt="Palak's anime-inspired coding world" />
 
 <br/>
 <br/>
