@@ -108,80 +108,56 @@ motto: "Build. Learn. Improve. Repeat."
 
 <table>
 <tr>
-<td width="50%" align="center">
-
-### 🎯 <a href="https://github.com/tripathipalak/PrepPilot">PrepPilot.AI</a>
-
-<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-000?style=flat-square"/>
-
-AI mock interviews with feedback and resume analysis for job-seekers.
-
-<a href="https://github.com/tripathipalak/PrepPilot">💻 Code</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🎓 <a href="https://github.com/tripathipalak/SkillRise">SkillRise</a>
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-MERN-based EdTech platform with student/instructor dashboards, authentication and course management.
-
-<a href="https://skill-rise-orcin.vercel.app/">🌐 Live</a> · <a href="https://github.com/tripathipalak/SkillRise">💻 Code</a>
-
-</td>
+<th>#</th>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Status</th>
+<th>Demo</th>
 </tr>
-
 <tr>
-<td width="50%" align="center">
-
-### 🔎 <a href="https://github.com/tripathipalak/Lost-And-Found">Lost & Found</a>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-Campus lost-item platform with auto-matching, admin-verified handovers and email alerts.
-
-<a href="https://github.com/tripathipalak/Lost-And-Found">💻 Code</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 📊 <a href="https://github.com/tripathipalak/Customer-churn-prediction">Customer Churn Prediction</a>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-Machine learning project for predicting customer churn using Python and Scikit-learn.
-
-<a href="https://github.com/tripathipalak/Customer-churn-prediction">💻 Code</a>
-
-</td>
+<td align="center">1</td>
+<td><b><a href="https://github.com/tripathipalak/PrepPilot">PrepPilot.AI</a></b></td>
+<td>MERN, Gemini API, JWT</td>
+<td align="center">Live</td>
+<td align="center"><a href="https://github.com/tripathipalak/PrepPilot">💻 Code</a></td>
 </tr>
-
 <tr>
-<td colspan="2" align="center">
-
-### 💰 Finovate
-
-Finance dashboard built with React for visualizing and managing financial data.
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square"/>
-
-</td>
+<td align="center">2</td>
+<td><b><a href="https://github.com/tripathipalak/SkillRise">SkillRise</a></b></td>
+<td>React, Node.js, MongoDB</td>
+<td align="center">Live</td>
+<td align="center"><a href="https://skill-rise-orcin.vercel.app/">🌐 Live</a> · <a href="https://github.com/tripathipalak/SkillRise">💻 Code</a></td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td><b><a href="https://github.com/tripathipalak/Lost-And-Found">Lost & Found</a></b></td>
+<td>Node.js, Express, MongoDB</td>
+<td align="center">Live</td>
+<td align="center"><a href="https://github.com/tripathipalak/Lost-And-Found">💻 Code</a></td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td><b><a href="https://github.com/tripathipalak/Customer-churn-prediction">Customer Churn Prediction</a></b></td>
+<td>Python, Scikit-learn, Pandas</td>
+<td align="center">Live</td>
+<td align="center"><a href="https://github.com/tripathipalak/Customer-churn-prediction">💻 Code</a></td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td><b>Finovate</b></td>
+<td>React, Recharts</td>
+<td align="center">Live</td>
+<td align="center">—</td>
 </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+
+<h2 align="center">🎓 Education & Focus</h2>
+
+<ul>
+<li><b>B.Tech in Computer Science & Engineering</b>, Final Year, Lucknow, India</li>
+</ul>
 
 <table>
 <tr>
@@ -200,6 +176,33 @@ Finance dashboard built with React for visualizing and managing financial data.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff" />
 
 </td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=2" width="100%"/>
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<table align="center">
+<tr>
+<th>Platform</th>
+<th>Link</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>LinkedIn</td>
+<td><a href="https://www.linkedin.com/in/palak-mani-tripathi/">linkedin.com/in/palak-mani-tripathi</a></td>
+<td>✅ Active</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td><a href="https://github.com/tripathipalak">github.com/tripathipalak</a></td>
+<td>✅ Active</td>
+</tr>
+<tr>
+<td>Email</td>
+<td><a href="mailto:tripathipalakk25@gmail.com">tripathipalakk25@gmail.com</a></td>
+<td>✅ Active</td>
 </tr>
 </table>
 
