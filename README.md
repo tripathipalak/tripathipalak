@@ -1,36 +1,30 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=tripathipalak&label=VISITORS&color=1F6FEB&style=flat-square" alt="visitors"/>
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Palak+Mani+Tripathi;Full-Stack+Developer;GenAI+Builder+%7C+MERN" />
+<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite.svg" width="160" alt="sprite"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Palak+%F0%9F%91%8B;Full-Stack+Developer;GenAI+Builder+%7C+MERN" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=Building+AI-powered+web+apps;Final-year+CSE+%7C+Open+to+SDE+roles;Learning+DSA%2C+RAG+and+Cloud" />
 
 <br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-0A66C2?style=flat-square&logo=codesandbox&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GenAI-1F6FEB?style=flat-square&logo=openai&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MERN-0E7490?style=flat-square&logo=mongodb&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20SDE-1E293B?style=flat-square&logo=target&logoColor=white"/>
-</p>
-
-<br/>
-
-<p>
-  <a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/tripathipalak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,2,12&height=6" width="100%"/>
+<a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/tripathipalak"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=80&section=footer" width="100%"/>
 
 </div>
 
@@ -62,6 +56,12 @@ motto: "Build. Learn. Improve. Repeat."
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=1F6FEB&center=true&vCenter=true&width=700&lines=%24+npx+palak-tripathi;%24+whoami+%E2%86%92+full-stack+%2B+genai" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
 
@@ -111,6 +111,10 @@ motto: "Build. Learn. Improve. Repeat."
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=github-compact&hide_border=true&bg_color=0d1117&color=1F6FEB&line=1F6FEB&point=ffffff&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1F6FEB" width="45%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
@@ -236,5 +240,3 @@ motto: "Build. Learn. Improve. Repeat."
 <h3><code>Keep coding, keep creating!</code></h3>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Palak&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
