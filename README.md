@@ -147,4 +147,71 @@ motto: "Build. Learn. Improve. Repeat."
 <td><b>Finovate</b></td>
 <td>React, Recharts</td>
 <td align="center">Live</td>
-<td
+<td align="center">—</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
+
+<h2 align="center">🎓 Education & Focus</h2>
+
+<ul>
+<li><b>B.Tech in Computer Science & Engineering</b>, Final Year, Lucknow, India</li>
+</ul>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🧠 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</td>
+
+<td width="50%" align="center">
+
+### 💻 Coding Vibes
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=github-compact&hide_border=true&bg_color=0d1117&color=1F6FEB&line=1F6FEB&point=ffffff" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<table align="center">
+<tr>
+<th>Platform</th>
+<th>Link</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>LinkedIn</td>
+<td><a href="https://www.linkedin.com/in/palak-mani-tripathi/">linkedin.com/in/palak-mani-tripathi</a></td>
+<td>✅ Active</td>
+</tr>
+<tr>
+<td>GitHub</td>
+<td><a href="https://github.com/tripathipalak">github.com/tripathipalak</a></td>
+<td>✅ Active</td>
+</tr>
+<tr>
+<td>Email</td>
+<td><a href="mailto:tripathipalakk25@gmail.com">tripathipalakk25@gmail.com</a></td>
+<td>✅ Active</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tripathipalak&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"/>
+
+<h3><code>Keep coding, keep creating!</code></h3>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Palak&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
