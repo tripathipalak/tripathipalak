@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="160" alt="sprite"/>
+<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="100%" alt="Anime girl coder banner" />
 
 <br/>
 
