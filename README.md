@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="100%" alt="Palak's anime-inspired coding world" />
@@ -186,4 +186,4 @@ A finance dashboard UI built with React and Recharts.
 **Keep learning. Keep building. Keep blooming.** ✨
 
 </div>
-```
+
