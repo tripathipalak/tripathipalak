@@ -1,32 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 16 16" shape-rendering="crispEdges">
-  <!-- long hair -->
-  <rect x="5" y="1" width="6" height="1" fill="#3B2A4A"/>
-  <rect x="4" y="2" width="8" height="2" fill="#3B2A4A"/>
-  <rect x="3" y="3" width="1" height="8" fill="#3B2A4A"/>
-  <rect x="12" y="3" width="1" height="8" fill="#3B2A4A"/>
-  <!-- ponytail -->
-  <rect x="13" y="4" width="1" height="2" fill="#3B2A4A"/>
-  <rect x="14" y="5" width="1" height="3" fill="#3B2A4A"/>
-  <!-- bow -->
-  <rect x="5" y="2" width="1" height="1" fill="#F472B6"/>
-  <rect x="10" y="2" width="1" height="1" fill="#F472B6"/>
-  <!-- face -->
-  <rect x="5" y="4" width="6" height="5" fill="#FDBA74"/>
+  <!-- ear tufts -->
+  <rect x="4" y="1" width="2" height="2" fill="#78716C"/>
+  <rect x="10" y="1" width="2" height="2" fill="#78716C"/>
+  <!-- head -->
+  <rect x="4" y="2" width="8" height="4" fill="#E7E5E4"/>
   <!-- eyes -->
-  <rect x="6" y="6" width="1" height="1" fill="#0F172A"/>
-  <rect x="9" y="6" width="1" height="1" fill="#0F172A"/>
-  <!-- blush -->
-  <rect x="5" y="7" width="1" height="1" fill="#FCA5A5"/>
-  <rect x="10" y="7" width="1" height="1" fill="#FCA5A5"/>
-  <!-- smile -->
-  <rect x="7" y="8" width="2" height="1" fill="#B45309"/>
-  <!-- top -->
-  <rect x="4" y="9" width="8" height="4" fill="#1F6FEB"/>
-  <rect x="3" y="10" width="1" height="2" fill="#1F6FEB"/>
-  <rect x="12" y="10" width="1" height="2" fill="#1F6FEB"/>
-  <!-- skirt -->
-  <rect x="4" y="13" width="8" height="1" fill="#A855F7"/>
-  <!-- legs -->
-  <rect x="5" y="14" width="2" height="2" fill="#FDBA74"/>
-  <rect x="9" y="14" width="2" height="2" fill="#FDBA74"/>
+  <rect x="5" y="3" width="3" height="3" fill="#FDE68A"/>
+  <rect x="8" y="3" width="3" height="3" fill="#FDE68A"/>
+  <rect x="6" y="4" width="1" height="1" fill="#0F172A"/>
+  <rect x="9" y="4" width="1" height="1" fill="#0F172A"/>
+  <!-- beak -->
+  <rect x="7" y="5" width="2" height="1" fill="#F59E0B"/>
+  <!-- body -->
+  <rect x="4" y="6" width="8" height="5" fill="#D6D3D1"/>
+  <rect x="5" y="7" width="6" height="3" fill="#A8A29E"/>
+  <!-- wings -->
+  <rect x="2" y="6" width="2" height="4" fill="#78716C"/>
+  <rect x="12" y="6" width="2" height="4" fill="#78716C"/>
+  <!-- feet -->
+  <rect x="5" y="11" width="2" height="1" fill="#F59E0B"/>
+  <rect x="9" y="11" width="2" height="1" fill="#F59E0B"/>
 </svg>
