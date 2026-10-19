@@ -1,8 +1,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="100%" alt="Palak's anime-inspired coding world" />
+<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="800" alt="Palak's anime-inspired coding world" />
 
+<br/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=E58BB7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Palak+Tripathi+%F0%9F%8C%B8;Full-Stack+Developer+%E2%9C%A8;Exploring+Generative+AI+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%92%BB" />
@@ -65,82 +66,91 @@ I enjoy building full-stack applications and exploring how Generative AI can mak
 
 ## 🚀 Featured Projects
 
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [PrepPilot.AI](https://github.com/tripathipalak/PrepPilot)
-
-An AI-focused project built with the MERN stack.
-
-**Tech:** MongoDB · Express · React · Node.js · Gemini API · JWT
-
-<a href="https://github.com/tripathipalak/PrepPilot">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [SkillRise](https://github.com/tripathipalak/SkillRise)
-
-A full-stack EdTech platform for online learning, course management, and student and instructor workflows.
-
-**Tech:** React · Node.js · MongoDB
-
-<a href="https://skill-rise-orcin.vercel.app/">Live Demo →</a> · <a href="https://github.com/tripathipalak/SkillRise">Source Code →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 [Lost & Found](https://github.com/tripathipalak/Lost-And-Found)
-
-A web application project focused on lost-and-found workflows.
-
-**Tech:** Node.js · Express · MongoDB
-
-<a href="https://github.com/tripathipalak/Lost-And-Found">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Customer Churn Prediction](https://github.com/tripathipalak/Customer-churn-prediction)
-
-A machine learning project exploring customer churn prediction.
-
-**Tech:** Python · Scikit-learn · Pandas
-
-<a href="https://github.com/tripathipalak/Customer-churn-prediction">View Repository →</a>
-
-</td>
-</tr>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="center">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🤖 <a href="https://github.com/tripathipalak/PrepPilot">PrepPilot.AI</a></b></td>
+      <td>AI-focused application built with the MERN stack.</td>
+      <td>MERN, Gemini API, JWT</td>
+      <td align="center"><a href="https://github.com/tripathipalak/PrepPilot">Code ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>📚 <a href="https://github.com/tripathipalak/SkillRise">SkillRise</a></b></td>
+      <td>EdTech platform for online learning and course management.</td>
+      <td>React, Node.js, MongoDB</td>
+      <td align="center"><a href="https://skill-rise-orcin.vercel.app/">Live ↗</a> · <a href="https://github.com/tripathipalak/SkillRise">Code ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>🔎 <a href="https://github.com/tripathipalak/Lost-And-Found">Lost & Found</a></b></td>
+      <td>Web application for lost-and-found workflows.</td>
+      <td>Node.js, Express, MongoDB</td>
+      <td align="center"><a href="https://github.com/tripathipalak/Lost-And-Found">Code ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>📊 <a href="https://github.com/tripathipalak/Customer-churn-prediction">Customer Churn Prediction</a></b></td>
+      <td>Machine learning project for customer churn prediction.</td>
+      <td>Python, Scikit-learn, Pandas</td>
+      <td align="center"><a href="https://github.com/tripathipalak/Customer-churn-prediction">Code ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>💰 Finovate</b></td>
+      <td>Finance dashboard UI with interactive charts.</td>
+      <td>React, Recharts</td>
+      <td align="center">—</td>
+    </tr>
+  </tbody>
 </table>
 
-### 💰 Finovate
+<br/>
+<p align="center">
+  <a href="https://github.com/tripathipalak?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Projects-F0A6CA?style=for-the-badge&logo=github&logoColor=0d1117" alt="Explore all projects" />
+  </a>
+</p>
 
-A finance dashboard UI built with React and Recharts.
-
-*Repository link and live demo can be added when available.*
-
-<div align="center">
-
-<a href="https://github.com/tripathipalak?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-E8A3C7?style=for-the-badge&logo=github&logoColor=333333" />
-</a>
-
-</div>
 
 ## 📈 GitHub Statistics
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F0A6CA&icon_color=F0A6CA&text_color=E6EDF3"
+        alt="GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&hide_border=true&bg_color=0d1117&title_color=F0A6CA&text_color=E6EDF3"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tripathipalak&show_icons=true&theme=default&hide_border=true&bg_color=FFF8FC&title_color=C76D9A&icon_color=C76D9A&text_color=555555" alt="GitHub statistics" />
+<table>
+  <tr>
+    <td align="left">
+      <img
+        src="https://streak-stats.demolab.com?user=tripathipalak&hide_border=true&background=0d1117&stroke=30363D&ring=F0A6CA&fire=F48FB1&currStreakLabel=F0A6CA&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+        alt="GitHub Contribution Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=compact&theme=default&hide_border=true&bg_color=FFF8FC&title_color=C76D9A&text_color=555555" alt="Most used programming languages" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=tripathipalak&theme=default&hide_border=true&background=FFF8FC&ring=C76D9A&fire=E8A3C7&currStreakLabel=C76D9A" alt="GitHub contribution streak" />
-
-</div>
 
 ## 🐍 My Contribution Garden
 
