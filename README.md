@@ -1,30 +1,22 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tripathipalak&label=VISITORS&color=1F6FEB&style=flat-square" alt="visitors"/>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite.svg" width="160" alt="sprite"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Palak+%F0%9F%91%8B;Full-Stack+Developer;GenAI+Builder+%7C+MERN" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=Building+AI-powered+web+apps;Final-year+CSE+%7C+Open+to+SDE+roles;Learning+DSA%2C+RAG+and+Cloud" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Palak+%F0%9F%91%8B;Full-Stack+Developer;GenAI+Builder+%7C+MERN" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/palak-mani-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:tripathipalakk25@gmail.com"><img src="https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/tripathipalak"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/tripathipalak"><img src="https://img.shields.io/badge/GitHub-1F6FEB?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=80&section=footer" width="100%"/>
 
 </div>
 
@@ -57,11 +49,7 @@ motto: "Build. Learn. Improve. Repeat."
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=1F6FEB&center=true&vCenter=true&width=700&lines=%24+npx+palak-tripathi;%24+whoami+%E2%86%92+full-stack+%2B+genai" />
-
-</div>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
 
@@ -69,35 +57,35 @@ motto: "Build. Learn. Improve. Repeat."
 
 <h3 align="center">🌐 Frontend</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-1F6FEB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWIND-1F6FEB?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/REDUX-1F6FEB?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VITE-1F6FEB?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 <h3 align="center">⚙️ Backend & Databases</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE.JS-1F6FEB?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS-1F6FEB?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-1F6FEB?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FASTAPI-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-1F6FEB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 <h3 align="center">🤖 AI & Tools</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/GEMINI_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/GEMINI_API-1F6FEB?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-1F6FEB?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-1F6FEB?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-1F6FEB?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VERCEL-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/RENDER-1F6FEB?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
@@ -111,10 +99,6 @@ motto: "Build. Learn. Improve. Repeat."
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tripathipalak&theme=github-compact&hide_border=true&bg_color=0d1117&color=1F6FEB&line=1F6FEB&point=ffffff&area=true" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathipalak&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1F6FEB" width="45%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=2" width="100%"/>
@@ -238,5 +222,9 @@ motto: "Build. Learn. Improve. Repeat."
 <img src="https://komarev.com/ghpvc/?username=tripathipalak&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"/>
 
 <h3><code>Keep coding, keep creating!</code></h3>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Palak&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
