@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="500" alt="Palak's anime-inspired coding world" />
+<!-- <img src="https://raw.githubusercontent.com/tripathipalak/tripathipalak/main/assets/sprite1.svg" width="500" alt="Palak's anime-inspired coding world" /> -->
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=E58BB7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Palak+%F0%9F%8C%B8;Full-Stack+Developer+%E2%9C%A8;Exploring+Generative+AI+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%92%BB" />
 
