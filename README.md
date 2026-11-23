@@ -40,7 +40,7 @@ I enjoy building full-stack applications and exploring how Generative AI can mak
 - 🤖 Exploring GenAI, LLM-powered applications, and AI agents.
 - 🧩 Practising Data Structures and Algorithms.
 - 🚀 Turning ideas into practical projects.
-- 🎯 Interested in Full-Stack, Software Development, and GenAI opportunities.
+- 🎯 Interested in Full-Stack, Software Development, GenAI and Cloud opportunities.
 
 > *Build with curiosity. Learn with consistency. Grow with every project.* ✨
 
